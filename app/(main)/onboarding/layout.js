@@ -35,9 +35,9 @@ if(user){
       <h1 className="text-4xl font-extrabold bg-gradient-to-r from-teal-300 via-emerald-400 to-teal-200 text-transparent bg-clip-text mb-3">
         Welcome to HealthHub
       </h1>
-      <p className="text-lg text-gray-300">
-        Let us know how you'd like to experience better healthcare.
-      </p>
+     <p className="text-lg text-gray-300">
+  Let us know how you&apos;d like to experience better healthcare.
+</p>
     </div>
 
     {children}
